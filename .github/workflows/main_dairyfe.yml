@@ -8,8 +8,10 @@ on:
     branches:
       - main
   workflow_dispatch:
+
 env:
-    process.env.CI : false
+  CI : false
+
 jobs:
   build:
     runs-on: ubuntu-latest
