@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logolink} height='30%' width='30%' />
+        <img src={logolink} alt="cow" height='30%' width='30%' />
         <p>
           A Milk Mastitis Predictor
         </p>
