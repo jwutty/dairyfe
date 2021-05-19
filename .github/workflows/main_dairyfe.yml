@@ -8,7 +8,8 @@ on:
     branches:
       - main
   workflow_dispatch:
-
+env:
+    process.env.CI : false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -52,5 +53,5 @@ jobs:
       with:
         app-name: 'dairyfe'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b48bd000969c4db4abceb993327a990a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_239e511b2a264063878b0e7bdb3f9383 }}
         package: .
