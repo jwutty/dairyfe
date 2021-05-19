@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dairyfe/static/css/main.4edf700c.chunk.css",
+    "main.js": "/dairyfe/static/js/main.4af5d162.chunk.js",
+    "main.js.map": "/dairyfe/static/js/main.4af5d162.chunk.js.map",
+    "runtime-main.js": "/dairyfe/static/js/runtime-main.5a7da55e.js",
+    "runtime-main.js.map": "/dairyfe/static/js/runtime-main.5a7da55e.js.map",
+    "static/js/2.c81dfe74.chunk.js": "/dairyfe/static/js/2.c81dfe74.chunk.js",
+    "static/js/2.c81dfe74.chunk.js.map": "/dairyfe/static/js/2.c81dfe74.chunk.js.map",
+    "static/js/3.2794b79f.chunk.js": "/dairyfe/static/js/3.2794b79f.chunk.js",
+    "static/js/3.2794b79f.chunk.js.map": "/dairyfe/static/js/3.2794b79f.chunk.js.map",
+    "index.html": "/dairyfe/index.html",
+    "static/css/main.4edf700c.chunk.css.map": "/dairyfe/static/css/main.4edf700c.chunk.css.map",
+    "static/js/2.c81dfe74.chunk.js.LICENSE.txt": "/dairyfe/static/js/2.c81dfe74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a7da55e.js",
+    "static/js/2.c81dfe74.chunk.js",
+    "static/css/main.4edf700c.chunk.css",
+    "static/js/main.4af5d162.chunk.js"
+  ]
+}
