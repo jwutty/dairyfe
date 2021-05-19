@@ -21,7 +21,7 @@ export default class PredictButton extends Component {
   }
   componentDidMount() {
     this.fetchPred();
-    this.timer = setInterval(() => this.fetchPred(), 1000);
+    this.timer = setInterval(() => this.fetchPred(), 2000);
   }
   componentWillUnmount() {
     clearInterval(this.timer);
